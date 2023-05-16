@@ -27,6 +27,6 @@ I can deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 
-Deployed Link -
+[Deployed Link](https://aboubacar-text-editor.herokuapp.com/)
 
-GitHub Link - 
+[GitHub Link](https://github.com/Aboubacar7/Text-Editor)
