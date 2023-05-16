@@ -1,7 +1,7 @@
 const butInstall = document.getElementById('buttonInstall');
-
+console.log('install 1')
 window.addEventListener('beforeinstallprompt', (event) => {
-
+  console.log('install 2')
   // Store the triggered events
   window.deferredPrompt = event;
 
